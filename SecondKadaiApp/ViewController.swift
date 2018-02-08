@@ -28,7 +28,7 @@ class ViewController: UIViewController {
         resultViewController.name = textField.text!
     }
     
-    @IBAction func back(_segue: UIStoryboardSegue){
+    @IBAction func unwind(_segue: UIStoryboardSegue){
     }
     
 
